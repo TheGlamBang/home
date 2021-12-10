@@ -1,0 +1,25 @@
+
+/*customize after setup*/
+body {
+  	background: black;
+  	color: #ffffff;
+  	font-family: 'Press Start 2P', sans-serif;
+}
+h1 {
+  font-size: 150%;
+  margin-top: 20px;
+  text-align: center;
+  color: cyan;
+  text-shadow: 2px 5px 5px magenta;
+}
+h2 {
+  font-size: 120%;
+  margin-top: 50px;
+  text-align: center;
+  color: cyan;
+  text-shadow: 2px 5px 5px magenta;
+}
+.logo {
+  text-align: center;
+  width: 500px;
+}
